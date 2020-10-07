@@ -5,9 +5,7 @@ Since the day I was born (Jan 1997), I have being developing using different lan
 
 ![kfiri GitHub Stats](https://github-readme-stats.codestackr.vercel.app/api?username=kfiri&show_icons=true&hide_border=true&theme=prussian)
 
-### Main Repositories
-
----
+### Main Repos
 
 [![indexed-section-list](https://github-readme-stats.vercel.app/api/pin/?username=kfiri&repo=indexed-section-list&hide_border=true&theme=dark)](https://github.com/kfiri/indexed-section-list)
 
