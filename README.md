@@ -1,4 +1,4 @@
-# Hya! I'm Kfir Nissim (aka Nick Nibbles) 👋
+# Hya! I'm Kfir Nissim (aka Nick Nybbles) 👋
 
 Since the day I was born (Jan 1997), I have being developing using different languages
 (my least favorite languages are the human ones).
